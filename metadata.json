@@ -1,0 +1,6 @@
+{
+  "name": "Wind Maker: High vs. Low Pressure Adventure",
+  "description": "Educational physics simulator for elementary school students exploring wind formation, vector fields, and atmospheric pressure systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
